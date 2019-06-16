@@ -1,0 +1,2 @@
+# linuxnotes
+Notes for Linux
