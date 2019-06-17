@@ -10,4 +10,5 @@ gedit filename
 
 #### disable swap file usage:
 nano /etc/dphys-swapfile
+
 find and set: CONF_SWAPSIZE=0
